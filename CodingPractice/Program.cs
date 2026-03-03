@@ -51,3 +51,5 @@ WriteLine($"이름: {student.Name}, 학년: {student.Grade}");
 
 WriteLine();
 
+// 5-2
+
